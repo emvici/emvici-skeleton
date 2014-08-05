@@ -1,0 +1,11 @@
+{
+  "name": "findhit-emvici",
+  "plugins": {
+    "eagerload": "findhit/findhit-emvici-eagerload",
+    "cache": "findhit/findhit-emvici-cache"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">=0.8"
+  }
+}
